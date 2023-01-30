@@ -1,1 +1,2 @@
 # Student_data_challenge
+The analysis of the student data was clear because it gave an insight on the different budgets for different schools, average scores for different subjects, as well as top students for different grade levels. This new data sheet helped to create a cleaner version of data for all schools to understand the correlations between scores of different subjects at different schools with the grades the schools make. 
